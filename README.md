@@ -26,9 +26,13 @@ Generally, before we go through the EDA process, we must clean the data and choo
 Here is my dashboard that I used to visualize the dataset and answer the questions.
 - Data Exploration:
 Total movies: 1145
+
 Total group type of movie: 17
+
 During year: 1915 to 2020
+
 Rating Score: 4,5,6,7,8,9,10
+
 Total Country: 24
 
 <img width="2480" alt="image" src="https://github.com/user-attachments/assets/a2de7fe0-01e1-43aa-936b-68805cf56964">
@@ -38,13 +42,13 @@ Total Country: 24
 
 Answering the question
 
-Q1: The total of Genres has 17 types.
+Q1: The total number of Genres has 17 types.
 
 <img width="91" alt="image" src="https://github.com/user-attachments/assets/bd7eafb9-1215-40ef-b852-0d898659f04e">
 
 
 
-Q2: The total movies by destinct is 1.145K movies that we count from 1915 to 2020.
+Q2: The total number of movies by destinct is 1.145K movies that we count from 1915 to 2020.
 
 <img width="90" alt="image" src="https://github.com/user-attachments/assets/c413c969-cee7-4314-b460-64290b9a7ece">
 
