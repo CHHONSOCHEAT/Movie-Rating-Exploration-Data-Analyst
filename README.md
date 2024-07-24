@@ -31,7 +31,7 @@ During year: 1915 to 2020
 Rating Score: 4,5,6,7,8,9,10
 Total Country: 24
 
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/a2de7fe0-01e1-43aa-936b-68805cf56964">
+<img width="2480" alt="image" src="https://github.com/user-attachments/assets/a2de7fe0-01e1-43aa-936b-68805cf56964">
 
    
 # Answering by Insight Dashboard:
@@ -50,6 +50,7 @@ Q2: The total movies by destinct is 1.145K movies that we count from 1915 to 202
 
 
 Q3: Refer on data insight dashboad to answer the question we found the highest score is 10 scores, the highest rate score as below:
+
 *Year -> 1972 and 1994
 
 *Country -> USA
@@ -60,9 +61,13 @@ Q3: Refer on data insight dashboad to answer the question we found the highest s
 
 -The Shawshank Redemption
 
-![image](https://github.com/user-attachments/assets/a62d2ea6-6728-4474-9fbb-f99b597b013f)
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/6e241d92-7ca3-4529-9f00-2378c85c341a">
 
-<img width="4280" alt="image" src="https://github.com/user-attachments/assets/d4040c01-a394-4aed-b477-469631b81710">
+
+# Insight Dashboard
+
+<img width="2480" alt="image" src="https://github.com/user-attachments/assets/3dd3cbd6-d770-490a-bd89-9771e938edae">
+
 
 
 
